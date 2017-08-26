@@ -12,8 +12,7 @@ excerpt: "A complete guide to 3DS custom firmware, <br /> from stock to boot9str
 ---
 
 {% capture notice-home %}
-This guide is for retail (consumer purchased; not from the Nintendo Developer Program) consoles _only_!    
-If you have a developer ("PANDA" or "SNAKE") console, check out [devGuide](https://dev.3ds.guide).
+If you found that this site is identical to [3ds.guide](https://3ds.guide/), _well_ you found my secret!
 {% endcapture %}
 
 <div class="notice--danger">{{ notice-home | markdownify }}</div>
