@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 title: "3DS Guide" #
 header:
   overlay_color: "#5e616c" #
